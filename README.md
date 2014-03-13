@@ -13,7 +13,7 @@ My Accelerometer Hands-on Project to emulate it with Processing environment.
 ### Instructions :
 
 1. Connect the Arduino Prototyping Hardware (I used Arduino Mega 2560) with the Accelerometer as shown in the following picture : 
-![](http://github.com/lrmodesgh/Visual-Accelerometer/Accelerometer_bb.png)
+![](https://github.com/lrmodesgh/Visual-Accelerometer/Accelerometer_bb.png)
 2. Download the Arduino program (accelerometer.ino) from the repository into the Target Arduino board (_I used a Arduino Mega2560 Board_)
 3. Invoke the Processing Environment
 4. Install the library ControlP5 from `Sketch -> Add Library` Menu

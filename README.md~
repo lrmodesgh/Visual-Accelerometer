@@ -29,9 +29,9 @@ My Accelerometer Hands-on Project to emulate it with Processing environment.
 
 ### Related Resources :
 
-1. ![Accelerometer Connected with Arduino](/Accelerometer_bb.svg)
-2. ![Accelerometer Connected with Arduino](/Accelerometer_bb.svg)Schematic of the Hardware Integration
-3. ![Accelerometer Connected with Arduino](/Accelerometer_bb.svg)PCB Result
+1. ![Accelerometer & Arduino Board Connections](/Accelerometer_bb.svg)
+2. ![Accelerometer & Arduino Schematic Diagram](/Accelerometer_schem.svg)
+3. ![Accelerometer & Arduino PCB Routed Result](/Accelerometer_pcb.svg)
 
 ### Uses :
 

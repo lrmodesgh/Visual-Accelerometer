@@ -1,4 +1,4 @@
-freesw-Accelerometer
+Visual-Accelerometer
 ====================
 
 My Accelerometer Hands-on Project to emulate it with Processing environment.

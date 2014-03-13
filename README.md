@@ -27,7 +27,7 @@ My Accelerometer Hands-on Project to emulate it with Processing environment.
 6. Run the Processing Application
 7. Browse the Tabs displayed in the Processing Application window and play with it
 
-### Related Resources :
+### Project Related Resources :
 
 1. Accelerometer and Arduino Board Connections ![Accelerometer & Arduino Board Connections](/Accelerometer_bb.png)
 2. Accelerometer and Arduino Schematic Diagram ![Accelerometer & Arduino Schematic Diagram](/Accelerometer_schem.png)

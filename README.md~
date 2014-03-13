@@ -7,7 +7,7 @@ My Accelerometer Hands-on Project to emulate it with Processing environment.
 
 1. :information_source:		[Accelerometer in Wikipedia](https://en.wikipedia.org/wiki/Accelerometer)
 2. :information_source:		[Degrees of Freedom in Wikipedia](https://en.wikipedia.org/wiki/Degrees_of_freedom_%28mechanics%29)
-3. :information_source:		[Steward Platform in Wikipedia](https://en.wikipedia.org/wiki/Stewart_platform
+3. :information_source:		[Stewart Platform in Wikipedia](https://en.wikipedia.org/wiki/Stewart_platform)
 4. :cool:	[Motion Dynamics Project](http://www.fullmotiondynamics.com/)
 
 ### Tools Required :
